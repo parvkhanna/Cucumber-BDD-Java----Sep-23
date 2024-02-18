@@ -3,7 +3,7 @@
 Feature: Free CRM Login Feature
 
  Background:
-# repeatative steps
+# repetitive steps
 
   @tag1
   Scenario: Login test scenario
